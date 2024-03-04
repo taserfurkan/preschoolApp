@@ -1,0 +1,83 @@
+E:\mssql-csharp-kindergarten-master\AnaOkulu\bin\Debug\AnaOkulu.exe
+E:\mssql-csharp-kindergarten-master\AnaOkulu\bin\Debug\AnaOkulu.pdb
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.csproj.AssemblyReference.cache
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.csproj.SuggestedBindingRedirects.cache
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminSayfasi.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminGiris.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_OgrenciIslemleri.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenGiris.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenIslemleri.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenSayfasi.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_SilinenKayitlar.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliGiris.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliIslemleri.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliSayfasi.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.GirisEkrani.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.Properties.Resources.resources
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.csproj.GenerateResource.cache
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.csproj.CoreCompileInputs.cache
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.exe
+E:\mssql-csharp-kindergarten-master\AnaOkulu\obj\Debug\AnaOkulu.pdb
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\bin\Debug\AnaOkulu.exe
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\bin\Debug\AnaOkulu.pdb
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.AssemblyReference.cache
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.SuggestedBindingRedirects.cache
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminSayfasi.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminGiris.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgrenciIslemleri.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenGiris.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenIslemleri.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenSayfasi.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_SilinenKayitlar.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliGiris.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliIslemleri.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliSayfasi.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.GirisEkrani.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.Properties.Resources.resources
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.GenerateResource.cache
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.exe
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\obj\Debug\AnaOkulu.pdb
+C:\Users\enese\Desktop\Anaokulu Projesi\AnaOkulu\bin\Debug\AnaOkulu.exe.config
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\bin\Debug\AnaOkulu.exe.config
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\bin\Debug\AnaOkulu.exe
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\bin\Debug\AnaOkulu.pdb
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminSayfasi.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminGiris.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgrenciIslemleri.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenGiris.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenIslemleri.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenSayfasi.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_SilinenKayitlar.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliGiris.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliIslemleri.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliSayfasi.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.GirisEkrani.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.Properties.Resources.resources
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.exe
+C:\Users\Serkan\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.pdb
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\bin\Debug\AnaOkulu.exe.config
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\bin\Debug\AnaOkulu.exe
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\bin\Debug\AnaOkulu.pdb
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.AssemblyReference.cache
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.SuggestedBindingRedirects.cache
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminSayfasi.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_AdminGiris.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgrenciIslemleri.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenGiris.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenIslemleri.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_OgretmenSayfasi.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_SilinenKayitlar.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliGiris.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliIslemleri.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.frm_VeliSayfasi.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.GirisEkrani.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.Properties.Resources.resources
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.GenerateResource.cache
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.exe
+C:\Users\enese\Desktop\Anaokulu_Projesi\AnaOkulu\obj\Debug\AnaOkulu.pdb
